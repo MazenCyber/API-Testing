@@ -1,0 +1,93 @@
+# Postman-API-Testing
+
+
+# 🚀 QA Automation Testing Framework
+
+### 🧪 Professional Web Automation Framework using Python & Selenium
+
+<p>
+<img src="https://img.shields.io/badge/Python-3.14-blue?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/Selenium-WebDriver-green?style=for-the-badge&logo=selenium"/>
+<img src="https://img.shields.io/badge/Pytest-Testing-orange?style=for-the-badge"/>
+</p>
+
+
+### Objective
+
+### Project Objective
+
+The objective of this project is to demonstrate API testing skills using **Postman** by performing CRUD operations on book orders using HTTP methods (**GET, POST, PATCH, and DELETE**). The project covers submitting new book orders, retrieving order details and status, updating existing orders, and deleting orders. Additionally, JavaScript test scripts are implemented to validate HTTP response status codes and verify the successful execution of API requests.
+
+---
+
+## 🔍 Scope of Testing
+
+### In Scope
+
+The following functionalities are covered:
+
+* Web UI automation using Selenium WebDriver with Python
+* Locating and interacting with web elements
+* Testing buttons, dropdowns, links, images, and other UI components
+* Verifying expected behavior using assertions
+* Detecting broken links and broken images
+* Automating repetitive functional test scenarios
+
+### Out of Scope
+
+* Performance
+* load testing
+* Security testing
+* Database testing
+* Mobile application testing
+* Backend and server-side testing
+---
+
+# 📂 Project Structure
+
+```text
+QA-Automation-Framework/
+│
+├── 📂 tests
+│   ├── test_login.py
+|
+├── 📂 Broken Image
+│   ├── screenshot.png
+│   ├── Broken Image.py
+│   
+│
+├── 📂 Broken Links
+│   ├── Broken Links.py
+│   ├── screenshot.png
+│   
+├── 📂 Test Case
+│   ├── Test Case.xlsx
+│   
+├── 📂 reports
+│
+├── 📂 screenshots
+│
+├── 📜 README.md
+```
+
+---
+# 💻 Tech Stack
+
+| Technology | Purpose |
+|------------|----------|
+| 🐍 Python | Programming |
+| 🧪 Selenium | Browser Automation |
+| ⚙️ Pytest | Test Runner |
+| 🌍 ChromeDriver | Browser Driver |
+| 📊 HTML Reports | Reporting |
+| 🖥 GitHub | Version Control |
+
+---
+
+### Reports & Analytics
+
+![Reports & Analytics](Report/Test-Run.png)
+
+
+
+
